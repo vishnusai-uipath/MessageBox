@@ -1,0 +1,2 @@
+PathToProjectJson,PackageName,OrchestratorFolder,ProcessName,RunTests
+project.json,Message.Box,Shared,Message.Box,FALSE
